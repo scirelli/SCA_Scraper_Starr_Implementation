@@ -1,0 +1,8 @@
+pandas==0.25.3
+mysql-connector==2.2.9
+beautifulsoup4==4.8.0
+urllib3==1.22
+nltk==3.2.4
+flake8==3.7.9
+pudb==2019.2
+pylint==2.4.4
